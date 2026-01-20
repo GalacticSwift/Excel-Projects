@@ -9,4 +9,4 @@ Skills I applied :
 • Appended and cleaned up 4000+ messy sales transactions with Power Query.
 • Utilised PivotTables and PivotCharts to filter the best-selling clothes of each quarter and the most common payment method to dissect and analyse consumer data for important data-driven findings.
 
-I am currently working on another project that involves messy, unfiltered Amazon Inc. transactions that span over the Month of March 2025.
+I am currently working on another project that involves messy, unfiltered Amazon Inc. transactions that span over the Month of March 2025. I am also working on implementing DAX and Power Pivots to web scrape dynamic stock data in order to design a Portfolio Tracker for myself.
